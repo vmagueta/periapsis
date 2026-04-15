@@ -1,0 +1,13 @@
+[package]
+name = "periapsis"
+version = "0.1.0"
+edition = "2024"
+description = "Orbital mechanics engine in Rust — real TLE data, verifiable satellite positions."
+authors = ["Victor Magueta Soler <solermvictor@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/vmagueta/periapsis"
+readme = "README.md"
+keywords = ["orbital-mechanics", "satellite", "tle", "sgp4", "astronomy"]
+categories = ["science", "aerospace"]
+
+[dependencies]
